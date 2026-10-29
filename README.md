@@ -3,10 +3,6 @@ Este proyecto son las bases de la aplicacion de las clases en un lenguaje para e
 
 # 🏦 Sistema de Identificación Bancaria - GUI
 
-![Python](https://shields.io)
-![Tkinter](https://shields.io)
-![Status](https://shields.io)
-
 Una aplicación de escritorio intuitiva desarrollada en **Python** utilizando **Tkinter** para la gestión y registro de información de entidades bancarias. El sistema cuenta con un flujo de navegación que incluye una pantalla de bienvenida y un formulario de captura de datos con validaciones en tiempo real.
 
 ---
@@ -29,7 +25,6 @@ Para el correcto funcionamiento del proyecto, la estructura de directorios debe 
 ├── Clases/
 │   └── classBanco.py       # Clase que define el objeto Banco y sus métodos
 ├── main.py                 # Script principal y lógica de la GUI
-└── README.md               # Documentación del repositorio
 ```
 
 ---
